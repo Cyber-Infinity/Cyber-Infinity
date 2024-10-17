@@ -12,7 +12,7 @@ At Cyber Infinity, we help internet users stay secure and solve various problems
 - Social media marketing and fan page growth
 - Meta subscription management
 
-For more details, visit our Facebook page: [Cyber Infinity](https://www.facebook.com/cyberinfinity.bd) or contact us via email at: [cyberinfinitytesthelp@hotmail.com](mailto:cyberinfinitytesthelp@hotmail.com).
+For more details, visit our Facebook page: [Cyber Infinity](https://www.facebook.com/cyberinfinity.bd) or contact us via email at: [cyberinfinityhelp@outlook.com](mailto: cyberinfinityhelp@outlook.com).
 
 ## Services We Offer
 - **Account Recovery**: Helping users regain access to hacked or disabled social media accounts.
@@ -22,7 +22,7 @@ For more details, visit our Facebook page: [Cyber Infinity](https://www.facebook
 
 ## Website
 You can access our website hosted on GitHub Pages at:
-[https://YourGitHubUsername.github.io/YourRepositoryName](https://YourGitHubUsername.github.io/YourRepositoryName)
+[[https://YourGitHubUsername.github.io/YourRepositoryName](https://cyber-infinity.github.io/Cyber-Infinity/)](https://cyber-infinity.github.io/Cyber-Infinity/)
 
 Our website offers detailed information about all the services we provide, ensuring that both individuals and businesses can find the help they need.
 
@@ -30,7 +30,7 @@ Our website offers detailed information about all the services we provide, ensur
 We welcome contributions to enhance our services. Feel free to submit pull requests or open issues to suggest improvements.
 
 ## Contact Us
-If you have any questions, feel free to reach out to us at [cyberinfinitytesthelp@hotmail.com](mailto:cyberinfinitytesthelp@hotmail.com).
+If you have any questions, feel free to reach out to us at [cyberinfinityhelp@outlook.com](mailto: cyberinfinityhelp@outlook.com).
 
 ---
 
