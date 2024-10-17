@@ -1,9 +1,6 @@
 # Cyber Infinity
 
-![Cyber Infinity](https://yourlogo-url.com/logo.png) <!-- Replace with your logo URL -->
-[![GitHub stars](https://img.shields.io/github/stars/cyber-infinity/Cyber-Infinity?style=social)](https://github.com/cyber-infinity/Cyber-Infinity/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/cyber-infinity/Cyber-Infinity?style=social)](https://github.com/cyber-infinity/Cyber-Infinity/network)
-
+![Cyber Infinity](https://avatars.githubusercontent.com/Cyber-Infinity) <!-- GitHub profile picture -->
 Welcome to **Cyber Infinity**'s official GitHub repository! We specialize in providing online security solutions, account recovery services, and effective marketing strategies.
 
 ## About Us
