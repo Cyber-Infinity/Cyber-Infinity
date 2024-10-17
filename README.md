@@ -1,6 +1,6 @@
 # Cyber Infinity
 
-![Cyber Infinity](https://avatars.githubusercontent.com/Cyber-Infinity) <!-- GitHub profile picture -->
+![Cyber Infinity](https://github.com/Cyber-Infinity/Cyber-Infinity/blob/main/logo.png) <!-- GitHub profile picture -->
 Welcome to **Cyber Infinity**'s official GitHub repository! We specialize in providing online security solutions, account recovery services, and effective marketing strategies.
 
 ## About Us
