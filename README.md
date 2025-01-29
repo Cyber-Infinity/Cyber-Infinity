@@ -38,7 +38,7 @@ Our website offers detailed information about all the services we provide, ensur
 We welcome contributions to enhance our services. Feel free to submit pull requests or open issues to suggest improvements.
 
 ## Contact Us
-If you have any questions, feel free to reach out to us at [cyberinfinitytesthelp@hotmail.com](mailto:cyberinfinitytesthelp@hotmail.com).
+If you have any questions, feel free to reach out to us at [cyberinfinityhelp@outlook.com](mailto:cyberinfinityhelp@outlook.com).
 
 ---
 
